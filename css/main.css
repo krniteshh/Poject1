@@ -31,7 +31,7 @@ section{margin-top:80px;}
     footer .footer-icons-hover:hover{opacity:0.60}
 
 
-/********************************** HOMEPAGE ******************************************/
+/** HOMEPAGE **/
 
 /*---heading---*/
     .container h2{text-align:center;
@@ -65,14 +65,3 @@ section{margin-top:80px;}
             width: 100px; height: 100px;
             }
 
-
-/*---Card----*/
-    .card{box-shadow: rgb(171, 39, 197) 0px 20px 30px -10px;
-        height:380px;width: 20rem;
-        background:linear-gradient(110deg, rgb(182, 173, 173) 60%, rgb(150, 159, 161) 60%);
-        margin-bottom:50px}
-    
-    .card img{
-            width:150px;
-            margin: auto;
-        }
